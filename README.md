@@ -1,4 +1,3 @@
-Here's an updated README file for your GitHub repository:  
 
 ```markdown
 # TactiQ: AI-Powered Football Management System  
@@ -96,5 +95,3 @@ For questions or feedback, feel free to reach out to the authors!
 
 Achieve your football goals with **TactiQ**! 🚀  
 ```  
-
-Let me know if there's anything else you'd like to adjust!
