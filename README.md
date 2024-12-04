@@ -1,5 +1,4 @@
 
-```markdown
 # TactiQ: AI-Powered Football Management System  
 
 **TactiQ** is an innovative football management system that leverages Artificial Intelligence to provide in-depth analysis and strategic insights. Designed to help teams achieve their goals, **TactiQ** streamlines performance tracking, tactical planning, and data visualization.  
