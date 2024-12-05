@@ -3,7 +3,7 @@ import { Plus, Search } from 'lucide-react';
 import PlayerCard from '../components/PlayerCard';
 import type { Player } from '../types';
 
-// Importing images
+
 import profileImage from '../assets/images/Hakimi.jpg';
 import youssefImage from '../assets/images/Youssef.jpg';
 
