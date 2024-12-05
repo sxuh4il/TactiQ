@@ -10,7 +10,7 @@ const SignIn = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // In a real app, implement actual authentication
+    
     navigate('/dashboard');
   };
 
