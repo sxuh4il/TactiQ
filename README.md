@@ -142,7 +142,7 @@ We welcome contributions! Please follow these steps:
 - **Othmane Aji**  
 - **Souhail Bouri**  
 - **Mohammed Rhouati**  
-- **Ayoub Elmekkadem**  
+- **Ayoub Lmekkadem**  
 
 ---
 
